@@ -1,0 +1,241 @@
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon - 複製\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon - 複製\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon - 複製\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon - 複製\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon - 複製\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon - 複製\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon - 複製\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon - 複製\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon - 複製\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\chris\OneDrive\桌面\期中專題\SUPERDRAGON\SuperDragon - 複製\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\SuperDragon - 狡籹\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\郭恩宏\Desktop\SuperDragon - 狡籹\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\SuperDragon - 狡籹\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\SuperDragon - 狡籹\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\郭恩宏\Desktop\SuperDragon - 狡籹\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\郭恩宏\Desktop\SuperDragon - 狡籹\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\郭恩宏\Desktop\SuperDragon - 狡籹\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\郭恩宏\Desktop\SuperDragon - 狡籹\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\郭恩宏\Desktop\SuperDragon - 狡籹\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\SuperDragon - 狡籹\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon - 狡籹\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon - 狡籹\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon - 狡籹\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon - 狡籹\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon - 狡籹\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon - 狡籹\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon - 狡籹\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon - 狡籹\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon - 狡籹\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon - 狡籹\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon - 狡籹\SuperDragon\bin\Debug\EntityFramework.dll
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon - 狡籹\SuperDragon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon - 狡籹\SuperDragon\bin\Debug\EntityFramework.xml
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon - 狡籹\SuperDragon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon - 狡籹\SuperDragon\obj\Debug\SuperDragon.csproj.CopyComplete
+C:\Users\chris\OneDrive\桌面\恩宏\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\chris\OneDrive\桌面\恩宏\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\chris\OneDrive\桌面\恩宏\SuperDragon\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\chris\OneDrive\桌面\恩宏\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\桌面\恩宏\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\chris\OneDrive\桌面\恩宏\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\chris\OneDrive\桌面\恩宏\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\桌面\恩宏\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\桌面\恩宏\SuperDragon\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\chris\OneDrive\桌面\恩宏\SuperDragon\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\新增資料夾 (3)\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\郭恩宏\Desktop\新增資料夾 (3)\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\新增資料夾 (3)\SuperDragon\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\新增資料夾 (3)\SuperDragon\SuperDragon\bin\Debug\EntityFramework.dll
+C:\Users\郭恩宏\Desktop\新增資料夾 (3)\SuperDragon\SuperDragon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\郭恩宏\Desktop\新增資料夾 (3)\SuperDragon\SuperDragon\bin\Debug\EntityFramework.xml
+C:\Users\郭恩宏\Desktop\新增資料夾 (3)\SuperDragon\SuperDragon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\郭恩宏\Desktop\新增資料夾 (3)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\郭恩宏\Desktop\新增資料夾 (3)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\郭恩宏\Desktop\新增資料夾 (3)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\郭恩宏\Desktop\新增資料夾 (3)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\郭恩宏\Desktop\新增資料夾 (3)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\郭恩宏\Desktop\新增資料夾 (3)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CopyComplete
+C:\Users\郭恩宏\Desktop\新增資料夾 (3)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\新增資料夾 (3)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\chris\OneDrive\桌面\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\chris\OneDrive\桌面\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\chris\OneDrive\桌面\SuperDragon\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\chris\OneDrive\桌面\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\桌面\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\chris\OneDrive\桌面\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\chris\OneDrive\桌面\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\桌面\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\桌面\SuperDragon\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\chris\OneDrive\桌面\SuperDragon\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\SuperDragon_0\新增資料夾\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\郭恩宏\Desktop\SuperDragon_0\新增資料夾\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\SuperDragon_0\新增資料夾\SuperDragon\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\SuperDragon_0\新增資料夾\SuperDragon\SuperDragon\bin\Debug\EntityFramework.dll
+C:\Users\郭恩宏\Desktop\SuperDragon_0\新增資料夾\SuperDragon\SuperDragon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\郭恩宏\Desktop\SuperDragon_0\新增資料夾\SuperDragon\SuperDragon\bin\Debug\EntityFramework.xml
+C:\Users\郭恩宏\Desktop\SuperDragon_0\新增資料夾\SuperDragon\SuperDragon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\郭恩宏\Desktop\SuperDragon_0\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\郭恩宏\Desktop\SuperDragon_0\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\郭恩宏\Desktop\SuperDragon_0\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\郭恩宏\Desktop\SuperDragon_0\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\郭恩宏\Desktop\SuperDragon_0\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\郭恩宏\Desktop\SuperDragon_0\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CopyComplete
+C:\Users\郭恩宏\Desktop\SuperDragon_0\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\SuperDragon_0\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\chris\OneDrive\桌面\恩宏\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\桌面\恩宏\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\chris\OneDrive\桌面\恩宏\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\chris\OneDrive\桌面\恩宏\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\桌面\恩宏\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\桌面\恩宏\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\chris\OneDrive\桌面\恩宏\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\chris\OneDrive\桌面\恩宏\新增資料夾\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\chris\OneDrive\桌面\恩宏\新增資料夾\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\chris\OneDrive\桌面\恩宏\新增資料夾\SuperDragon\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\chris\OneDrive\桌面\恩宏\新增資料夾\SuperDragon\SuperDragon\bin\Debug\EntityFramework.dll
+C:\Users\chris\OneDrive\桌面\恩宏\新增資料夾\SuperDragon\SuperDragon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chris\OneDrive\桌面\恩宏\新增資料夾\SuperDragon\SuperDragon\bin\Debug\EntityFramework.xml
+C:\Users\chris\OneDrive\桌面\恩宏\新增資料夾\SuperDragon\SuperDragon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chris\OneDrive\桌面\恩宏\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CopyComplete
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\SuperDragon\obj\Debug\Interop.WMPLib.dll
+C:\Users\郭恩宏\Desktop\SuperDragon_0\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.ResolveComReference.cache
+C:\Users\chris\OneDrive\桌面\SuperDragon\SuperDragon\obj\Debug\Interop.WMPLib.dll
+C:\Users\chris\OneDrive\桌面\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.ResolveComReference.cache
+C:\Users\郭恩宏\Desktop\新增資料夾 (2)\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\郭恩宏\Desktop\新增資料夾 (2)\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\新增資料夾 (2)\SuperDragon\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\新增資料夾 (2)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\郭恩宏\Desktop\新增資料夾 (2)\SuperDragon\SuperDragon\obj\Debug\Interop.WMPLib.dll
+C:\Users\郭恩宏\Desktop\新增資料夾 (2)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.ResolveComReference.cache
+C:\Users\郭恩宏\Desktop\新增資料夾 (2)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\郭恩宏\Desktop\新增資料夾 (2)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\郭恩宏\Desktop\新增資料夾 (2)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\郭恩宏\Desktop\新增資料夾 (2)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\郭恩宏\Desktop\新增資料夾 (2)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\新增資料夾 (2)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon\SuperDragon\obj\Debug\Interop.WMPLib.dll
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.ResolveComReference.cache
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\chris\OneDrive\桌面\SuperDragon1\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\chris\OneDrive\桌面\SuperDragon1\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\chris\OneDrive\桌面\SuperDragon1\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\chris\OneDrive\桌面\SuperDragon1\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\桌面\SuperDragon1\SuperDragon\obj\Debug\Interop.WMPLib.dll
+C:\Users\chris\OneDrive\桌面\SuperDragon1\SuperDragon\obj\Debug\SuperDragon.csproj.ResolveComReference.cache
+C:\Users\chris\OneDrive\桌面\SuperDragon1\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\chris\OneDrive\桌面\SuperDragon1\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\chris\OneDrive\桌面\SuperDragon1\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\桌面\SuperDragon1\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\桌面\SuperDragon1\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\chris\OneDrive\桌面\SuperDragon1\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\SUPERD_NEW\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\郭恩宏\Desktop\SUPERD_NEW\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\SUPERD_NEW\SuperDragon\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\SUPERD_NEW\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\郭恩宏\Desktop\SUPERD_NEW\SuperDragon\SuperDragon\obj\Debug\Interop.WMPLib.dll
+C:\Users\郭恩宏\Desktop\SUPERD_NEW\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.ResolveComReference.cache
+C:\Users\郭恩宏\Desktop\SUPERD_NEW\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\郭恩宏\Desktop\SUPERD_NEW\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\郭恩宏\Desktop\SUPERD_NEW\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\郭恩宏\Desktop\SUPERD_NEW\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\郭恩宏\Desktop\SUPERD_NEW\SuperDragon\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\SUPERD_NEW\SuperDragon\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\chris\OneDrive\桌面\恩宏\SuperDragon\SuperDragon\obj\Debug\Interop.WMPLib.dll
+C:\Users\chris\OneDrive\桌面\恩宏\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.ResolveComReference.cache
+C:\Users\郭恩宏\Desktop\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.ResultForm.resources
+C:\Users\chris\OneDrive\桌面\新增資料夾\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\chris\OneDrive\桌面\新增資料夾\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\chris\OneDrive\桌面\新增資料夾\SuperDragon\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\chris\OneDrive\桌面\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\桌面\新增資料夾\SuperDragon\SuperDragon\obj\Debug\Interop.WMPLib.dll
+C:\Users\chris\OneDrive\桌面\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.ResolveComReference.cache
+C:\Users\chris\OneDrive\桌面\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\chris\OneDrive\桌面\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\chris\OneDrive\桌面\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.ResultForm.resources
+C:\Users\chris\OneDrive\桌面\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\桌面\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\桌面\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\chris\OneDrive\桌面\新增資料夾\SuperDragon\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\新增資料夾 (2)\SuperDragon\SuperDragon\obj\Debug\SuperDragon.ResultForm.resources
+C:\Users\chris\OneDrive\桌面\SuperDragon\SuperDragon\obj\Debug\SuperDragon.ResultForm.resources
+C:\Users\chris\OneDrive\桌面\恩宏\SuperDragon\SuperDragon\obj\Debug\SuperDragon.ResultForm.resources
+C:\Users\郭恩宏\Desktop\SUPERD_NEW\SuperDragon\SuperDragon\obj\Debug\SuperDragon.ResultForm.resources
+C:\Users\郭恩宏\Desktop\他版\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\郭恩宏\Desktop\他版\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\他版\SuperDragon\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\他版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\郭恩宏\Desktop\他版\SuperDragon\SuperDragon\obj\Debug\Interop.WMPLib.dll
+C:\Users\郭恩宏\Desktop\他版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.ResolveComReference.cache
+C:\Users\郭恩宏\Desktop\他版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\郭恩宏\Desktop\他版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\郭恩宏\Desktop\他版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.ResultForm.resources
+C:\Users\郭恩宏\Desktop\他版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\郭恩宏\Desktop\他版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\郭恩宏\Desktop\他版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\他版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\我版\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\郭恩宏\Desktop\我版\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\我版\SuperDragon\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\郭恩宏\Desktop\我版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\郭恩宏\Desktop\我版\SuperDragon\SuperDragon\obj\Debug\Interop.WMPLib.dll
+C:\Users\郭恩宏\Desktop\我版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.ResolveComReference.cache
+C:\Users\郭恩宏\Desktop\我版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\郭恩宏\Desktop\我版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\郭恩宏\Desktop\我版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.ResultForm.resources
+C:\Users\郭恩宏\Desktop\我版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\郭恩宏\Desktop\我版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\郭恩宏\Desktop\我版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\郭恩宏\Desktop\我版\SuperDragon\SuperDragon\obj\Debug\SuperDragon.pdb
+C:\Users\chris\OneDrive\桌面\CMoney\CMoney期中完整\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe.config
+C:\Users\chris\OneDrive\桌面\CMoney\CMoney期中完整\SuperDragon\SuperDragon\bin\Debug\SuperDragon.exe
+C:\Users\chris\OneDrive\桌面\CMoney\CMoney期中完整\SuperDragon\SuperDragon\bin\Debug\SuperDragon.pdb
+C:\Users\chris\OneDrive\桌面\CMoney\CMoney期中完整\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\桌面\CMoney\CMoney期中完整\SuperDragon\SuperDragon\obj\Debug\Interop.WMPLib.dll
+C:\Users\chris\OneDrive\桌面\CMoney\CMoney期中完整\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.ResolveComReference.cache
+C:\Users\chris\OneDrive\桌面\CMoney\CMoney期中完整\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Form1.resources
+C:\Users\chris\OneDrive\桌面\CMoney\CMoney期中完整\SuperDragon\SuperDragon\obj\Debug\SuperDragon.Properties.Resources.resources
+C:\Users\chris\OneDrive\桌面\CMoney\CMoney期中完整\SuperDragon\SuperDragon\obj\Debug\SuperDragon.ResultForm.resources
+C:\Users\chris\OneDrive\桌面\CMoney\CMoney期中完整\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\桌面\CMoney\CMoney期中完整\SuperDragon\SuperDragon\obj\Debug\SuperDragon.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\桌面\CMoney\CMoney期中完整\SuperDragon\SuperDragon\obj\Debug\SuperDragon.exe
+C:\Users\chris\OneDrive\桌面\CMoney\CMoney期中完整\SuperDragon\SuperDragon\obj\Debug\SuperDragon.pdb
